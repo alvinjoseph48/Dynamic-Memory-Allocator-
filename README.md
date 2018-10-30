@@ -1,1 +1,1 @@
-#Dynmicd-Memory-Allocator-
+#Dynamic Memory Allocator
